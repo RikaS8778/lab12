@@ -1,6 +1,6 @@
 "use strict";
 
-document.getElementById("nameId").textContent = "Rika / CT1008083 / Lab12"
+document.getElementById("nameId").textContent = "Rika / CT1008083 / Lab12 - Auto Deploy"
 
 //Dynamic background color change
 const color = ['#F0E68C', '#FFDAB9', '#FFE4B5', '#D8BFD8', '#B0E0E6', '#AFEEEE', '#E0FFFF', '#98FB98', '#FFDEAD', '#F5DEB3'];
